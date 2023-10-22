@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Buss_recommendation {
-    void Display(ArrayList<Destination> stops)
+    void Display(ArrayList<node> stops)
     {
         ArrayList<String>output=new ArrayList<>();
         ArrayList<String>commonBusses;
